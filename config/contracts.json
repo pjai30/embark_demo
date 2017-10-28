@@ -1,0 +1,11 @@
+{
+  "default": {
+    "gas": "auto",
+    "contracts": {
+      "TitleRegistry": {
+        "deploy" : "true",
+		"gas": 1589372 
+      }
+    }
+  }
+}
